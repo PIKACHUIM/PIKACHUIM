@@ -24,18 +24,22 @@
 
 ## 👋 关于我
 
-```typescript
-const pikachu = {
-  name:    '任浩龙 (Pikachu Ren)',
-  role:    'Backend & Client Engineer',
-  at:      'Tencent Technology (Chengdu)',
-  home:    'Chengdu, China 🌶️',
-  stack:   ['Python', 'Go', 'TypeScript', 'C/C++', 'C#', 'Rust', 'Java'],
-  motto:   '把需求变成工具，也把工具认真做成产品',
-  hobbies: ['Genshin 🎮', 'Wuthering 🎮', '旅行（为了美食）🍜', '开源 💻'],
-};
-```
+<div align="center">
 
+嗨，我是 **任浩龙（Pikachu Ren）**，来自成都的客户端 / 后端工程师，**OpenList 开源项目创始人** ⚡
+
+</div>
+
+|  |  |
+|:---:|:---|
+| 💼 **职位** | Backend & Client Engineer |
+| 🏢 **公司** | Tencent Technology (Chengdu) |
+| 📍 **坐标** | Chengdu, China 🌶️ |
+| 🚀 **技术栈** | `Python` `Go` `TypeScript` `C/C++` `C#` `Rust` `Java` |
+| 🎮 **爱好** | Genshin 🎮 · Wuthering 🎮 · 旅行（为了美食）🍜 · 开源 💻 |
+
+> 💬 **格言**：把需求变成工具，也把工具认真做成产品
+>
 > 🎯 **5 年客户端/后端开发经验** · 🏆 **OpenList 开源项目创始人** · ⭐ **GitHub 累计 25K+ Stars**
 
 <!-- ============ GitHub Stats ============ -->
