@@ -43,20 +43,11 @@ const pikachu = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PIKACHUIM&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFCC33&icon_color=FFCC33&text_color=C9D1D9&ring_color=FFCC33)](https://github.com/PIKACHUIM)
+[![GitHub Stats](https://ghstats.dev/api/card?username=PIKACHUIM&theme=tokyonight&bg=0D1117&title_color=FFCC33&icon_color=FFCC33&text_color=C9D1D9&hide_border=true&border_radius=10)](https://github.com/PIKACHUIM)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIKACHUIM&layout=compact&langs_count=10&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFCC33&text_color=C9D1D9)](https://github.com/PIKACHUIM)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PIKACHUIM&theme=tokyonight&hide_border=true&background=0D1117&ring=FFCC33&fire=FFCC33&currStreakLabel=FFCC33&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E)](https://github.com/PIKACHUIM)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PIKACHUIM&theme=onedark&column=8&margin-w=10&margin-h=10&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Languages](https://ghstats.dev/api/langs?username=PIKACHUIM&theme=tokyonight&bg=0D1117&title_color=FFCC33&text_color=C9D1D9&hide_border=true&border_radius=10&layout=donut)](https://github.com/PIKACHUIM)
 
 </div>
-
-<!-- ============ Activity Graph ============ -->
-## 🔥 最近动态
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PIKACHUIM&theme=github-dark&bg_color=0D1117&color=FFCC33&line=FFCC33&point=FFCC33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ============ Tech Stack ============ -->
 ## 🛠️ 技术栈
@@ -80,34 +71,18 @@ const pikachu = {
 <!-- ============ Featured Projects ============ -->
 ## 🌟 精选项目
 
-<div align="center">
-
-<table>
-  <tr>
-    <td><a href="https://github.com/OpenListTeam/OpenList"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenListTeam&repo=OpenList&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFCC33&icon_color=FFCC33&text_color=C9D1D9" /></a></td>
-    <td><a href="https://github.com/OpenListTeam/OpenList-Desktop"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenListTeam&repo=OpenList-Desktop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFCC33&icon_color=FFCC33&text_color=C9D1D9" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PIKACHUIM/FakeSign"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PIKACHUIM&repo=FakeSign&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFCC33&icon_color=FFCC33&text_color=C9D1D9" /></a></td>
-    <td><a href="https://github.com/PIKACHUIM/BanCert"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PIKACHUIM&repo=BanCert&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFCC33&icon_color=FFCC33&text_color=C9D1D9" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/PIKACHUIM/CFWorkerACME"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PIKACHUIM&repo=CFWorkerACME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFCC33&icon_color=FFCC33&text_color=C9D1D9" /></a></td>
-    <td><a href="https://github.com/PIKACHUIM/NetPanel"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PIKACHUIM&repo=NetPanel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFCC33&icon_color=FFCC33&text_color=C9D1D9" /></a></td>
-  </tr>
-</table>
-
-</div>
-
-### 更多项目
-
-| 项目 | 简介 | 技术栈 |
-|------|------|--------|
-| 📱 [OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) | OpenList 官方 Flutter 移动端应用 | Flutter |
-| 🌐 [NetPanel](https://github.com/PIKACHUIM/NetPanel) | 简洁易用的网络设备管理面板 | TypeScript |
-| 🐳 [RDDocker](https://github.com/PIKACHUIM/RDDocker) | 带桌面环境并支持远程桌面的 Docker 镜像 | Shell · Docker |
-| 🔑 [TPMSmartCard](https://github.com/PIKACHUIM/TPMSmartCard) | 基于 TPM 技术的虚拟智能卡管理工具 | Python · TPM |
-| 🔗 [CFWorkerUrls](https://github.com/PIKACHUIM/CFWorkerUrls) | 短链与 STUN 重定向服务 | TypeScript · Workers |
+| 项目 | 简介 | 技术栈 | ⭐ Stars |
+|------|------|--------|:--------:|
+| 🗂️ [OpenList](https://github.com/OpenListTeam/OpenList) | 数十种网盘挂载到本地，支持 WebDAV，社区驱动的 AList 替代分支 | Go · WebDAV | **24.3k** |
+| 🖥️ [OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) | OpenList 官方跨平台桌面客户端 | Tauri · SolidJS | **1.4k** |
+| 📱 [OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) | OpenList 官方 Flutter 移动端应用 | Flutter | **681** |
+| 🛡️ [FakeSign](https://github.com/PIKACHUIM/FakeSign) | 自建时间戳服务器实现伪签名驱动证书 | PowerShell | **513** |
+| 🚫 [BanCert](https://github.com/PIKACHUIM/BanCert) | Windows 代码签名证书限制工具 | Python | **165** |
+| 🔐 [CFWorkerACME](https://github.com/PIKACHUIM/CFWorkerACME) | 在 Cloudflare Worker 上运行的 SSL 证书申请代理 | TypeScript · Workers | **93** |
+| 🐳 [RDDocker](https://github.com/PIKACHUIM/RDDocker) | 带桌面环境并支持远程桌面的 Docker 镜像 | Shell · Docker | **28** |
+| 🔑 [TPMSmartCard](https://github.com/PIKACHUIM/TPMSmartCard) | 基于 TPM 技术的虚拟智能卡管理工具 | Python · TPM | **28** |
+| 🔗 [CFWorkerUrls](https://github.com/PIKACHUIM/CFWorkerUrls) | 短链与 STUN 重定向服务 | TypeScript · Workers | **28** |
+| 🌐 [NetPanel](https://github.com/PIKACHUIM/NetPanel) | 简洁易用的网络设备管理面板 | TypeScript | **27** |
 
 > 📦 [查看全部 60+ 仓库 →](https://github.com/PIKACHUIM?tab=repositories&sort=stars)
 
@@ -152,13 +127,9 @@ const pikachu = {
 <!-- ============ Footer ============ -->
 <div align="center">
 
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/PIKACHUIM/PIKACHUIM/output/github-contribution-grid-snake.svg)
-
 **⚡ "旅行负责打开地图，美食负责决定路线" ⚡**
 
-![Visitor Count](https://profile-counter.glitch.me/PIKACHUIM/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=PIKACHUIM&color=FFCC33&style=flat-square)
 
 </div>
 
